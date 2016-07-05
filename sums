@@ -1,0 +1,11 @@
+3fcbc06a2923938dd9424277ca87456b  ./move.lua
+3c881b715c57667b02a09a29458dcff6  ./patterns/minecraft_iron_block.lua
+3e966af37622b73e77270a56ecad0866  ./workbench.lua
+56b2be6eb4fc5690401cff7818db9739  ./inventory.lua
+4797d3d4934ed1ae68f62c404204690e  ./craft_patterns.lua
+d41d8cd98f00b204e9800998ecf8427e  ./.goutputstream-U5P0JY
+a188e14d8dcfc640d8177b97238d7179  ./workbench_test.lua
+ed66471e53ee6401de976d4cf7a1a979  ./add_pattern.lua
+d3fac3b2507441d9ef712592dd8156d8  ./sums
+c83c169c9a906a3f7c4b96d228b7bb00  ./tableio.lua
+ca79d597a766cd612926dcdb3e1b5728  ./pretty_print.lua
